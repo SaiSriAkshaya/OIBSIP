@@ -1,0 +1,3 @@
+Download sqlite-jdbc-3.36.0.3.jar from:
+https://repo1.maven.org/maven2/org/xerial/sqlite-jdbc/3.36.0.3/sqlite-jdbc-3.36.0.3.jar
+and place it in this folder.
